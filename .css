@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display:wght@100&family=Roboto+Mono&family=Varela+Round&display=swap');
+h1{
+    font-family: 'Big Shoulders Inline Display', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Varela Round', sans-serif;
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+}
+h3{
+    font-family: 'Varela Round', sans-serif;
+}
+p{
+    font-family: 'Varela Round', sans-serif;
+}
+
+body {
+    background-color: rgb(227, 255, 225);
+}
